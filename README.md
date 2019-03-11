@@ -23,4 +23,4 @@ Build and run using Docker Compose:
 
 Hello world!
 
-Steps: 1
+Steps: 2
